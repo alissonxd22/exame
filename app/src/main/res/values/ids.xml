@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edittextSexo" type="id" />
+    <item name="edittextCor" type="id" />
+    <item name="edittextRaca" type="id" />
+    <item name="edittextNome" type="id" />
+</resources>
